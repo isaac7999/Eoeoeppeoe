@@ -152,7 +152,7 @@ espCorner.CornerRadius = UDim.new(0, 8)
 espCorner.Parent = ESPButton
 
 ESPButton.MouseButton1Click:Connect(function()
-    local armasAlvo = {"AR-15", "Uzi", "G3", "PARAFAL", "FACA", "Hi power", "AK47", "IA2"}
+    local armasAlvo = {"AR-15", "Uzi", "G3", "PARAFAL", "FACA", "Hi power", "AK47", "IA2", "Planta Limpa", "Planta Suja", "Planta suja", "Planta limpa", "Peça de arma", "Peça de Arma", "Peça De Arma", "USP", "Xbox", "Skate", "SKATE", "C4", "Lockpick"}
 
     for _, plr in pairs(Players:GetPlayers()) do
         if plr ~= player then
