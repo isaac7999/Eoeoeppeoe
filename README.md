@@ -78,7 +78,7 @@ PuxarButton.MouseButton1Click:Connect(function()
     end
 
     -- Lista de itens para pegar
-    local itens = {"AK47", "Uzi", "Glock17", "Glock 17", "Parafal", "PARAFAL", "Faca", "IA2", "G3", "Tratamento", "FACA", "Xbox", "Hi Power", "Natalina", "C4", "AR-15", "AR15", "Escudo", "ESCUDO"}
+    local itens = {"AK47", "Uzi", "Glock17", "Glock 17", "Parafal", "PARAFAL", "Faca", "IA2", "G3", "Tratamento", "FACA", "Xbox", "Hi Power", "Natalina", "C4", "AR-15", "AR15", "Escudo", "ESCUDO", "Skate"}
 
     -- Argumentos para a requisição
     local args = {
